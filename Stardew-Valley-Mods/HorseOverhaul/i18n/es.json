@@ -1,0 +1,11 @@
+{
+  "Friendship": "Amistad",
+  "Yes": "Sí",
+  "No": "No",
+  "GotPetted": "Fue acariciado: {{value}}",
+  "GotWater": "Recibió Agua: {{value}}",
+  "GotFood": "Recibió comida: {{value}}",
+  "Friendship2": "Amistad: {{value}}",
+  "AteEnough": "{{name}} comió lo suficiente por hoy.",
+  "AteFood": "{{name}} se comió tu {{foodName}}."
+}

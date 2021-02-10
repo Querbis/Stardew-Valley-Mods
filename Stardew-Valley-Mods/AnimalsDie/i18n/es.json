@@ -1,0 +1,31 @@
+{
+  /*
+		Spanish Translation.
+  */
+  "Cause.starvation": "hambre",
+  "Cause.dehydration": "deshidración",
+  "Cause.oldAge": "vejez",
+  "Cause.illness": "enfermedad",
+  "Cause.wildAnimalAttack": "un ataque de animal salvaje",
+  "Happiness.sad": "triste",
+  "Happiness.fine": "bien",
+  "Happiness.happy": "felíz",
+  "Love.heart": "{{heartCount}} corazón",
+  "Love.hearts": "{{heartCount}} corazones",
+  "AnimalDeathMessage": "Tu {{animalType}} {{animalName}} murió debido a {{cause}}.\n{{animalName}} alcanzó los {{entireAgeText}} años de edad, se sentía {{happinessText}} y tuvo {{loveString}} de amistad hacia ti.",
+  "Age.year": "{{yearCount}} año",
+  "Age.years": "{{yearCount}} años",
+  "Age.yearAndMonth": "{{yearCount}} año y {{monthCount}} mes",
+  "Age.yearAndMonths": "{{yearCount}} año y {{monthCount}} meses",
+  "Age.yearsAndMonth": "{{yearCount}} años y {{monthCount}} mes",
+  "Age.yearsAndMonths": "{{yearCount}} años y {{monthCount}} meses",
+  "Age.month": "{{monthCount}} mes",
+  "Age.months": "{{monthCount}} meses",
+  "Age.day": "{{dayCount}} día",
+  "Age.days": "{{dayCount}} días",
+  "SickAnimalMessage.oneAnimal": "{{firstAnimalName}} está enfermo/a.",
+  "SickAnimalMessage.twoAnimals": "{{firstAnimalName}} y {{secondAnimalName}} están enfermos.",
+  "SickAnimalMessage.threeAnimals": "{{firstAnimalName}}, {{secondAnimalName}} y {{thirdAnimalName}} están enfermos.",
+  "SickAnimalMessage.fourAnimals": "{{firstAnimalName}}, {{secondAnimalName}}, {{thirdAnimalName}} y {{sickAnimalCount}} animal más, están enfermos",
+  "SickAnimalMessage.moreThanFourAnimals": "{{firstAnimalName}}, {{secondAnimalName}}, {{thirdAnimalName}} y unos {{sickAnimalCount}} animales están enfermos."
+}
